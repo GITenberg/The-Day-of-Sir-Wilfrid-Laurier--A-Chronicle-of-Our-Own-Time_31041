@@ -1,0 +1,31 @@
+_repo: The-Day-of-Sir-Wilfrid-Laurier--A-Chronicle-of-Our-Own-Time_31041
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Skelton, Oscar D. (Oscar Douglas)
+    aliases:
+    - Skelton, Oscar Douglas
+    - Skelton, O. D. (Oscar Douglas)
+    birthdate: 1878
+    deathdate: 1941
+    gutenberg_agent_id: '1047'
+    url: http://www.gutenberg.org/2009/agents/1047
+    wikipedia: http://en.wikipedia.org/wiki/Oscar_D._Skelton
+description: ''
+gutenberg_issued: '2010-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- History -- 1867-1914'
+- !lcsh 'Laurier, Wilfrid, Sir, 1841-1919'
+- !lcc 'F1001'
+title: 'The Day of Sir Wilfrid Laurier: A Chronicle of Our Own Time'
+url: http://www.gutenberg.org/ebooks/31041
