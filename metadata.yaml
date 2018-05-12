@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1047
     wikipedia: http://en.wikipedia.org/wiki/Oscar_D._Skelton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31041#The-Day-of-Sir-Wilfrid-Laurier--A-Chronicle-of-Our-Own-Time
 gutenberg_issued: '2010-01-21'
 gutenberg_type: Text
 identifiers:
